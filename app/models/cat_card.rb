@@ -1,2 +1,0 @@
-class CatCard < ApplicationRecord
-end
